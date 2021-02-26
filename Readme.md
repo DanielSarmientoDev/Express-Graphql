@@ -26,9 +26,9 @@ Consult query example:
 }
 ```
 
-Query:
+#### Query:
 ![query graphql](https://i.ibb.co/0mzt9xL/Captura-de-Pantalla-2021-02-26-a-la-s-10-06-55-a-m.png)
-Query response:
+#### Query response:
 ![query graphql](https://i.ibb.co/w6Z82bq/Captura-de-Pantalla-2021-02-26-a-la-s-10-06-38-a-m.png)
 
 ###### Daniel Sarmiento Dev 2021
