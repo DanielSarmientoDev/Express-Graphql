@@ -1,0 +1,21 @@
+{
+  "name": "express-graphql",
+  "version": "1.0.0",
+  "description": "express graphql",
+  "main": "index.js",
+  "repository": "git@github.com:DanielSarmientoDev/Express-Graphql.git",
+  "author": "Daniel Sarmiento Dev",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.7",
+    "subscriptions-transport-ws": "^0.9.18"
+  }
+}
